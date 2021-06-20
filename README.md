@@ -1,2 +1,2 @@
 # email_newsletter
- Email Newsletter developed using html 5 and css3
+ Email Newsletter developed using HTML 5 and CSS 3
